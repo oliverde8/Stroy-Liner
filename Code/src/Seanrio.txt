@@ -1,0 +1,60 @@
+1)Ouvrir l'application
+X
+
+2)Dessiner un Rectangle noir qui prend toute la surface
+
+3)Ajouter un titre en Grand
+X
+
+4)Tirer une ligne sous le titre
+
+4)Sauvgarder
+
+5)Cree un nouveau Step
+
+6)Effacer les elements dans ce step. 
+
+7)Parcourir les fichiers
+
+8)Inserer une Image(pas video XD)
+
+9)Redimensionner Image en Gardant proportion 
+
+10)Redimensionner sans garder proportion 
+
+11)Cree nouvelle etape 
+
+12)Cree encore une nouvelle etape 
+
+13)Ce place a l'etape 3 et deconnecter l'element. 
+
+14)Deplacer l'element dans le step 3. 
+	On remarque deplacement dans step4 mais pas dans step2. la chaine est uniquement casse entre les 2 etepes. 
+
+15)On selectionne etape 4
+
+16)On efface etape 4 
+
+17)On reconnecte L'image. 
+
+18)On refait une sauvgarde avec CTRL+S
+	-On voit que il nous a pas redemande ou sauvgarde
+
+19)On ferme l'application 
+
+20)On reouvre l'application 
+
+21)On fait open. 
+
+22)On fait export
+
+//
+
+1)Avoir une barre d'outils plutot que le menu 
+
+2)La rotation des images
+
+3)Changer l'ordre des step avec un drag and drop
+
+4)
+
